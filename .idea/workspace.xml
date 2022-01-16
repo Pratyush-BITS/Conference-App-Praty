@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5a86d7a-ff04-4918-a9b3-bc6be86a729e" name="Changes" comment="" />
+    <list default="true" id="c5a86d7a-ff04-4918-a9b3-bc6be86a729e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Conference-App/src/main/java/com/learn/conferencedemo/config/PersistenceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conference-App/src/main/java/com/learn/conferencedemo/config/PersistenceConfiguration.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +120,7 @@
       <workItem from="1642309228184" duration="6562000" />
       <workItem from="1642324835797" duration="6216000" />
       <workItem from="1642340464622" duration="2355000" />
-      <workItem from="1642343319019" duration="93000" />
+      <workItem from="1642343319019" duration="540000" />
     </task>
     <servers />
   </component>
